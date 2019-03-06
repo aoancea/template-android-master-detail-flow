@@ -1,0 +1,1 @@
+# template-android-master-detail-flow
